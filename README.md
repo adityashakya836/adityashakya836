@@ -1,4 +1,3 @@
-# githubprofile-aditya
 ![logo](https://github.com/adityashakya836/githubprofile-aditya/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Shakya</h1>
 <h3 align="center">I'm a passionate Data Scientist on the lookout for an exciting entry-level opportunity to contribute my skills and enthusiasm to a dynamic team.</h3>
